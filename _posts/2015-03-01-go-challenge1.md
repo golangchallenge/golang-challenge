@@ -12,7 +12,7 @@ tags: [go challenge, golang]
 
 * This challenge is now closed.
 * There were 170 entries from 40 countries.
-* The winners will be declared on 28th March. 2015.
+* The winners will be declared on 28th March 2015.
 * The (#2) challenge by **Guillaume J. Charmes** is scheduled for 1st Apr. 2015.
 
 Join the [go-challenge Google Group](https://groups.google.com/d/forum/go-challenge) to stay up to date on all Go challenges.
