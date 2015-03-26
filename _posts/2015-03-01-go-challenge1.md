@@ -102,7 +102,7 @@ I need your help to reverse engineer the binary format used by my drum machine a
 
 #### To get started
 
-You will find [attached a zip file](golang-challenge.com/data/ch1/golang-challenge-1-drum_machine.zip) containing the starting point for this challenge.
+You will find [attached a zip file](/data/ch1/golang-challenge-1-drum_machine.zip) containing the starting point for this challenge.
 Your goal is to implement the `drum` package and make it pass the
 provided tests.
 
