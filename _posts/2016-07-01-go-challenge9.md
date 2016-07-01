@@ -6,7 +6,7 @@ tags: [go challenge, golang]
 
 #### The July 2016 Go Challenge for developers (newbies included)
 
-#### Aaron Cruz: Author of the 9th Go Challenge
+#### Aaron Cruz: Author of the Ninth Go Challenge
 
 <img align="right" src="/images/aaron-cruz.png" height="200" width="200" alt="Aaron Cruz" title="Aaron Cruz" style="border:5px solid black" />
 The 9th Go Challenge author, Aaron Cruz, is a food lover who speaks about Go and other programming languages at conferences around the world. For his real job, he helps marketplaces start making revenue faster by integrating with Stripe Connect to simplify buyer/seller (rider/driver, freelancer/client) payments.
