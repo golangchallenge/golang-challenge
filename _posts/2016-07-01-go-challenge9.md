@@ -128,6 +128,7 @@ Here are some great prizes provided by our sponsors for the event.
 _Winner 1_:
 
 * [Apcera](https://www.apcera.com/) - [Go Gopher Messenger Bag](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
+* [GitHub](https://github.com/) - A [Micro Personal Plan](https://github.com/pricing)
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
 
@@ -135,6 +136,7 @@ _Winner 2_:
 
 * [Anand D N](https://twitter.com/Wanderer140) - An eBook: [Mastering Go Web Services](http://shop.oreilly.com/product/9781783981304.do)
 * [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
+* [GitHub](https://github.com/) - A [Micro Personal Plan](https://github.com/pricing)
 * [InfluxDB](http://influxdb.com/) - A US$ 50 Amazon digital gift card.
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
 
