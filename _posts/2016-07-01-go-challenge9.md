@@ -127,6 +127,7 @@ Here are some great prizes provided by our sponsors for the event.
 
 _Winner 1_:
 
+* [Cube Root Software](http://cuberoot.in/) - An eBook [Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo)
 * [GitHub](https://github.com/) - A [Micro Personal Plan](https://github.com/pricing)
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
 
@@ -141,7 +142,7 @@ All the solutions submitted by the participants will be available **[here](https
 
 #### Sponsors
 
-This challenge's sponsors are: [Anand D N](https://twitter.com/Wanderer140), [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [InfluxDB](http://influxdb.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/), [Manning Publications Co.](http://manning.com/), [Packt Publishing](https://www.packtpub.com/) and [Qwinix Technologies](http://www.qwinixtech.com/).
+This challenge's sponsors are: [Cube Root Software](http://cuberoot.in/), [GitHub](https://github.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) and [Qwinix Technologies](http://www.qwinixtech.com/).
 
 #### Credit
 
