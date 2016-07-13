@@ -144,7 +144,7 @@ All the solutions submitted by the participants will be available **[here](https
 
 #### Sponsors
 
-This challenge's sponsors are: [Cube Root Software](http://cuberoot.in/), [GitHub](https://github.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) and [Qwinix Technologies](http://www.qwinixtech.com/).
+This challenge's sponsors are: [Apcera](https://www.apcera.com/), [Cube Root Software](http://cuberoot.in/), [GitHub](https://github.com/), [JoshSoftware Pvt. Ltd.](http://www.joshsoftware.com/) and [Qwinix Technologies](http://www.qwinixtech.com/).
 
 #### Credit
 
