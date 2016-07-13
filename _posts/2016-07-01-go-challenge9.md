@@ -127,12 +127,14 @@ Here are some great prizes provided by our sponsors for the event.
 
 _Winner 1_:
 
+* [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [Cube Root Software](http://cuberoot.in/) - An eBook [Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo)
 * [GitHub](https://github.com/) - A [Micro Personal Plan](https://github.com/pricing)
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
 
 _Winner 2_:
 
+* [Apcera](https://www.apcera.com/) - [Go Gopher Squishable](https://www.googlemerchandisestore.com/shop.axd/Search?keywords=gopher)
 * [GitHub](https://github.com/) - A [Micro Personal Plan](https://github.com/pricing)
 * [Qwinix Technologies](http://www.qwinixtech.com/) - An eBook [The Docker Book: Containerization is the new virtualization](http://goo.gl/6sJJTy)
 
