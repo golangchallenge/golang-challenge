@@ -4,6 +4,11 @@ title: Go Challenge - 9
 tags: [go challenge, golang]
 ---
 
+![update.jpg](/images/update.jpg)
+
+The 9th Go Challenge is now closed.
+
+---
 #### The July 2016 Go Challenge for developers (newbies included)
 
 #### Aaron Cruz: Author of the 9th Go Challenge
