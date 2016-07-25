@@ -6,7 +6,7 @@ tags: [go challenge, golang]
 
 ![update.jpg](/images/update.jpg)
 
-The 9th Go Challenge is now closed.
+The 9th Go Challenge is now closed. Sadly there were no submissions for this challenge.
 
 ---
 
